@@ -8,7 +8,7 @@ Inbyggd webbserver.
 
 ## Hur man startar inbyggda webbservern
 
-Du kan starta inbyggda webbservern på [kommandoraden](https://github.com/datenstrom/yellow-extensions/tree/master/source/command/README-sv.md). Den inbyggda webbservern är praktisk för utvecklare och formgivare. Öppna ett terminalfönster. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php serve`, du kan valfritt ange en URL. Öppna en webbläsare och gå till URL:en som visas.
+Du kan starta inbyggda webbservern på [kommandoraden](https://github.com/annaesvensson/yellow-command/tree/main/README-sv.md). Den inbyggda webbservern är praktisk för utvecklare och formgivare. Öppna ett terminalfönster. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php serve`, du kan valfritt ange en URL. Öppna en webbläsare och gå till URL:en som visas.
 
 ## Exempel
 
@@ -28,7 +28,7 @@ Starta inbyggda webbservern på kommandoraden, olika URL:
 
 ## Installation
 
-[Ladda ner tillägg](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/serve.zip) och kopiera zip-fil till din `system/extensions` mapp. Högerklicka om du använder Safari.
+[Ladda ner tillägg](https://github.com/annaesvensson/yellow-serve/archive/main.zip) och kopiera zip-fil till din `system/extensions` mapp. Högerklicka om du använder Safari.
 
 ## Utvecklare
 
