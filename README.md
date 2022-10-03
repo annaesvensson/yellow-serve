@@ -32,4 +32,4 @@ Starting built-in web server at the command line, different URLs:
 
 ## Developer
 
-Datenstrom. [Get help](https://datenstrom.se/yellow/help/).
+Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).

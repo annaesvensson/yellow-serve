@@ -32,4 +32,4 @@ Eingebauten Webserver in der Befehlszeile starten, unterschiedliche URL:
 
 ## Entwickler
 
-Datenstrom. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
