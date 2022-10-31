@@ -28,7 +28,7 @@ Starting built-in web server at the command line, different URLs:
 
 ## Installation
 
-[Download extension](https://github.com/annaesvensson/yellow-serve/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/annaesvensson/yellow-serve/archive/main.zip) and copy ZIP file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 ## Developer
 
