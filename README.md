@@ -8,7 +8,7 @@ Built-in web server.
 
 ## How to start the built-in web server
 
-You can start the built-in web server at the [command line](https://github.com/annaesvensson/yellow-command). The built-in web server is convenient for developers and designers. Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php serve`, you can optionally add a URL. Open a web browser and go to the URL shown.
+You can start the built-in web server at the [command line](https://github.com/annaesvensson/yellow-command). The built-in web server is convenient for developers and designers. This allows you to make small web sites on your computer and upload them to your web server later. Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php serve`, you can optionally add a URL. Open a web browser and go to the URL shown.
 
 ## Examples
 
