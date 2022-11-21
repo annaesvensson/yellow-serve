@@ -8,7 +8,7 @@ Inbyggd webbserver.
 
 ## Hur man startar inbyggda webbservern
 
-Du kan starta inbyggda webbservern på [kommandoraden](https://github.com/annaesvensson/yellow-command/tree/main/README-sv.md). Den inbyggda webbservern är praktisk för utvecklare och formgivare. Detta gör att du kan skapa små webbsidor på din dator och ladda upp dem till din webbserver senare. Öppna ett terminalfönster. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php serve`, du kan valfritt ange en URL. Öppna en webbläsare och gå till URL:en som visas.
+Du kan starta inbyggda webbservern på [kommandoraden](https://github.com/annaesvensson/yellow-command/tree/main/README-sv.md). Den inbyggda webbservern är praktisk för utvecklare, formgivare och översättare. Detta ger dig möjlighet att redigera webbsidor på din dator och ladda upp dem till din webbserver senare. Öppna ett terminalfönster. Gå till installationsmappen där filen `yellow.php` finns. Skriv `php yellow.php serve`, du kan valfritt ange en URL. Öppna en webbläsare och gå till URL:en som visas.
 
 ## Exempel
 
