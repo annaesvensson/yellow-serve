@@ -10,7 +10,7 @@ Eingebauter Webserver.
 
 [ZIP-Datei herunterladen](https://github.com/annaesvensson/yellow-serve/archive/main.zip) und in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
 
-## Wie man den eingebauten Webserver startet
+## Wie man einen Webserver startet
 
 Du kannst den eingebauten Webserver in der [Befehlszeile](https://github.com/annaesvensson/yellow-command/tree/main/README-de.md) starten. Der eingebaute Webserver ist praktisch für Entwickler, Designer und Übersetzer. Das gibt dir die Möglichkeit Webseiten auf deinem Computer zu bearbeiten und sie später auf deinen Webserver hochzuladen. Öffne ein Terminalfenster. Gehe ins Installations-Verzeichnis, dort wo sich die Datei `yellow.php` befindet. Gib ein `php yellow.php serve`, du kannst wahlweise eine URL angeben. Öffne einen Webbrowser und gehe zur angezeigten URL.
 
