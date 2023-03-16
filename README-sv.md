@@ -16,10 +16,6 @@ Du kan starta inbyggda webbservern på [kommandoraden](https://github.com/annaes
 
 ## Exempel
 
-Visa tillgängliga kommandon på kommandoraden:
-
-`php yellow.php`
-
 Starta inbyggda webbservern på kommandoraden:
 
 `php yellow.php serve`  
