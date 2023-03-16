@@ -16,10 +16,6 @@ Du kannst den eingebauten Webserver in der [Befehlszeile](https://github.com/ann
 
 ## Beispiele
 
-Verfügbare Befehle in der Befehlszeile anzeigen:
-
-`php yellow.php`
-
 Eingebauten Webserver in der Befehlszeile starten:
 
 `php yellow.php serve`  
