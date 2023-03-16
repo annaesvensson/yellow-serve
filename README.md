@@ -16,10 +16,6 @@ You can start the built-in web server at the [command line](https://github.com/a
 
 ## Examples
 
-Showing available commands at the command line:
-
-`php yellow.php`
-
 Starting built-in web server at the command line:
 
 `php yellow.php serve`  
