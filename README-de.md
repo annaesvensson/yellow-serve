@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Serve 0.8.23
+# Serve 0.8.24
 
 Eingebauter Webserver.
 
@@ -16,11 +16,11 @@ Du kannst einen Webserver in der [Befehlszeile](https://github.com/annaesvensson
 
 ## Beispiele
 
-Eingebauten Webserver in der Befehlszeile starten:
+Webserver in der Befehlszeile starten:
 
 `php yellow.php serve`  
 
-Eingebauten Webserver in der Befehlszeile starten, unterschiedliche URL:
+Webserver in der Befehlszeile starten, unterschiedliche URL:
 
 `php yellow.php serve http://localhost:8000/`  
 `php yellow.php serve http://localhost:8080/`  

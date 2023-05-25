@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Serve 0.8.23
+# Serve 0.8.24
 
 Inbyggd webbserver.
 
@@ -16,11 +16,11 @@ Du kan starta en webbserver på [kommandoraden](https://github.com/annaesvensson
 
 ## Exempel
 
-Starta inbyggda webbservern på kommandoraden:
+Starta webbserver på kommandoraden:
 
 `php yellow.php serve`  
 
-Starta inbyggda webbservern på kommandoraden, olika URL:
+Starta webbserver på kommandoraden, olika URL:
 
 `php yellow.php serve http://localhost:8000/`  
 `php yellow.php serve http://localhost:8080/`  

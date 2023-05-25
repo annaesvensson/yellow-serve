@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Serve 0.8.23
+# Serve 0.8.24
 
 Built-in web server.
 
@@ -16,11 +16,11 @@ You can start a web server at the [command line](https://github.com/annaesvensso
 
 ## Examples
 
-Starting built-in web server at the command line:
+Starting web server at the command line:
 
 `php yellow.php serve`  
 
-Starting built-in web server at the command line, different URLs:
+Starting web server at the command line, different URLs:
 
 `php yellow.php serve http://localhost:8000/`  
 `php yellow.php serve http://localhost:8080/`  
