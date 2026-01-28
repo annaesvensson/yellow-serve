@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
-
 # Serve 0.9.1
 
-Built-in web server.
+Built-in web server. Developed by Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Screenshot"></p>
 
@@ -26,6 +24,4 @@ Starting web server at the command line, different URLs:
 `php yellow.php serve http://localhost:8080/`  
 `php yellow.php serve http://localhost:8888/`  
 
-## Developer
-
-Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).
+Do you have questions? [Get help](https://datenstrom.se/yellow/help/).

@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
-
 # Serve 0.9.1
 
-Inbyggd webbserver.
+Inbyggd webbserver. Utvecklad av Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Skärmdump"></p>
 
@@ -26,6 +24,4 @@ Starta webbserver på kommandoraden, olika URL:
 `php yellow.php serve http://localhost:8080/`  
 `php yellow.php serve http://localhost:8888/`  
 
-## Utvecklare
-
-Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Har du några frågor? [Få hjälp](https://datenstrom.se/sv/yellow/help/).
