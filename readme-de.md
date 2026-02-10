@@ -10,7 +10,7 @@ Eingebauter Webserver. Entwickelt von Anna Svensson.
 
 ## Wie man einen Webserver startet
 
-Du kannst einen Webserver in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/readme-de.md) starten. Der eingebaute Webserver ist praktisch für Entwickler, Designer und Übersetzer. Das gibt dir die Möglichkeit deine Webseite auf deinem Computer zu ändern und sie später auf den deinen Webserver hochzuladen. Öffne ein Terminalfenster. Gehe ins Installations-Verzeichnis, dort wo sich die Datei `yellow.php` befindet. Gib ein `php yellow.php serve`, du kannst wahlweise eine URL angeben. Öffne einen Webbrowser und gehe zur angezeigten URL.
+Du kannst einen Webserver auf deinem Computer in der [Befehlszeile](https://github.com/annaesvensson/yellow-core/tree/main/readme-de.md) starten. Der eingebaute Webserver ist praktisch für Entwickler, Designer und Übersetzer. Das gibt dir die Möglichkeit deine Webseite auf deinem Computer zu ändern und sie später auf den deinen Webserver hochzuladen. Öffne ein Terminalfenster. Gehe ins Installations-Verzeichnis, dort wo sich die Datei `yellow.php` befindet. Gib ein `php yellow.php serve`, du kannst wahlweise eine URL angeben. Öffne einen Webbrowser und gehe zur angezeigten URL.
 
 ## Beispiele
 

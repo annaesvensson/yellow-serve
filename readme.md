@@ -10,7 +10,7 @@ Built-in web server. Developed by Anna Svensson.
 
 ## How to start a web server
 
-You can start a web server at the [command line](https://github.com/annaesvensson/yellow-core). The built-in web server is convenient for developers, designers and translators. This allows you to change your website on your computer and upload it to your web server later. Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php serve`, you can optionally add a URL. Open a web browser and go to the URL shown.
+You can start a web server on your computer at the [command line](https://github.com/annaesvensson/yellow-core). The built-in web server is convenient for developers, designers and translators. This allows you to change your website on your computer and upload it to your web server later. Open a terminal window. Go to your installation folder, where the file `yellow.php` is. Type `php yellow.php serve`, you can optionally add a URL. Open a web browser and go to the URL shown.
 
 ## Examples
 
