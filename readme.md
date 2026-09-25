@@ -1,4 +1,4 @@
-# Serve 0.9.1
+# Serve 1.0.1
 
 Built-in web server. Developed by Anna Svensson.
 
